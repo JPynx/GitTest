@@ -1,0 +1,7 @@
+This is definitely a text file
+
+Academic comeback time
+
+
+
+EDIT 1: This is the first edit for the Partner Git Test
