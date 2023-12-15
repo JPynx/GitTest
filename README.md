@@ -8,3 +8,4 @@ Q3 - git pull origin master pulls the branch from the remote main and merges it 
 Q4 - Since it was a merge, git pull origin master didn't overwrite my local changes or any of the remote changes in any of the branches
 Q5 - git pull origin master was a merge.
 Q6 - The local master branch is still behind the remote master.
+Q7 - No it did not delete the local copy of my branch
