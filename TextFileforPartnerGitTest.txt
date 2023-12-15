@@ -8,3 +8,6 @@ EDIT 1: This is the first edit for the Partner Git Test
 
 EDIT 2: This is the first actual edit for Partner Git Test
 
+
+
+Edit 3: This edit is being made in the branch called Feature2
